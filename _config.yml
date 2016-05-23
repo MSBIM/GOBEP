@@ -1,14 +1,14 @@
 # Site settings
-title:            BIMstandards
-description:      Bonnes pratiques de l'openBIM, standards et interopérabilité.
+title:            GOBEP
+description:      Guide open BIM pour les échanges par la pratique
 keywords:         standards, BIM, openBIM, BuildingSMART, IFC, IDM, MVD, COBie, BCF, bSDD, gbXML, BIMétré
-author:           Alexandre Grignon
-url:              "http://bimstandards.fr"
-repository:       bimstandards/bimstandards
+author:           Alexandre Grignon, Nader Boutros
+url:              "http://gobep.tech.fr"
+repository:       MSBIM/GOBEP
 
 # Versions
-version:          v0.1.0-beta.5
-latest_update:    18/05/2016
+version:          v0.1
+latest_update:    23/05/2016
 
 # Build settings
 markdown:         kramdown
