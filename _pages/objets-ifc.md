@@ -185,3 +185,4 @@ Cette page est donc destinée à faire connaître la richesse de cette classific
 
 * [Documentation IFC2x3-TC1](http://www.buildingsmart-tech.org/ifc/IFC2x3/TC1/html/index.htm)
 * [IFC 2×3 element and type classification – The plain language A-Z list](http://bimblog.bondbryan.com/ifc-2x3-element-and-type-classification-the-plain-language-a-z-list/)
+* [Documentation IFC2x3-TC1 simplifiée](http://bim.tech.fr/ifc2x3)
