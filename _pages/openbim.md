@@ -13,4 +13,10 @@ Grâce à un certains nombre de standards développés par **buildingSMART**, il
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/t3ECK4U0QeI"></iframe>
 </div>
 
+Pour aller plus loin, Building smart international a publié une vidéo explicative (en anglais) sur les concepts liés au BSDD :
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe  class="embed-responsive-item" src="https://www.youtube.com/embed/PEfNBAmv4Yg" frameborder="0" allowfullscreen></iframe>
+</div>
+
 <a class="btn btn-primary-outline pull-right" href="/ifc/premiers-pas/introduction.html">Continuer vers les IFC &rarr;</a>
