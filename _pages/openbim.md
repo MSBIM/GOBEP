@@ -19,4 +19,10 @@ Pour aller plus loin, Building smart international a publié une vidéo explicat
   <iframe  class="embed-responsive-item" src="https://www.youtube.com/embed/PEfNBAmv4Yg" frameborder="0" allowfullscreen></iframe>
 </div>
 
+Ou pour être simplement convainçu de l'utilité de tout cela, voici ce qu'Alexandre à écouter sur France Inter :
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.franceinter.fr/player/export-reecouter?content=1292691" frameborder="0" scrolling="no"></iframe>
+</div>
+
 <a class="btn btn-primary-outline pull-right" href="/ifc/premiers-pas/introduction.html">Continuer vers les IFC &rarr;</a>
